@@ -1,2 +1,3 @@
 # Pong_2D-python
-2D Ping Pong game. Coded using the pygame module of python.
+
+Projet en francais de la realisation du jeu de Pong (Ping pong en 2D)
